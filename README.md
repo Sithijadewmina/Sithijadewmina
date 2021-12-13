@@ -9,7 +9,7 @@
 #   **Github Stats**
 ![Sithija Github stats](https://github-readme-stats.vercel.app/api?username=Sithijadewmina&show_icons=true&theme=tokyonight)
 
-#Youtube Channel
+# Youtube Channel
 - [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCFH_E0cu7U8GMjEJGnSvYjA?label=Artboy%20Lk&style=social)](https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA)
 
 # <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
