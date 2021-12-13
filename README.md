@@ -1,6 +1,6 @@
 ## Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 
-<h1 align="center"><a href="https://github.com/Sithijadewmina"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=2494F7&size=15&center=true&lines=Hello+I'm+Sithija+Dewmina"></a></h1>
+<h1 align="center"><a href="https://github.com/Sithijadewmina"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=2494F7&size=25&center=true&lines=Hello+I'm+Sithija+Dewmina"></a></h1>
 
 <img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
