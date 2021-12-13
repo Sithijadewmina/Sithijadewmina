@@ -12,4 +12,4 @@
 ![Profile views](https://gpvc.arturio.dev/Sithijadewmina)
 
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="100%" >
