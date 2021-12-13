@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+I am Sithija
 
 ## I am Sithija
 
