@@ -11,7 +11,7 @@
 
 # Youtube Channel
 - [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCFH_E0cu7U8GMjEJGnSvYjA?label=Artboy%20Lk&style=social)](https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA)
- <p align="center"><a href="https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA"><img src="https://telegra.ph/file/a7a6731cb535a636a1d6b.png" width="400"></a></p>
+ <p align="center"><a href="https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA"><img src="https://telegra.ph/file/dda94c64726542f7f4312.png" width="400"></a></p>
 <p align="center"></P>
 
 # <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
