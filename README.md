@@ -15,7 +15,7 @@
 
 - [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCFH_E0cu7U8GMjEJGnSvYjA?label=ArtboyLK%20subscribes&style=social)](https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA)
 
-- [![youtube views](https://img.shields.io/youtube/channel/views/UCFH_E0cu7U8GMjEJGnSvYjA?label=ArtboyLk%20views&style=social)(https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA)
+- [youtube views](https://img.shields.io/youtube/channel/views/UCFH_E0cu7U8GMjEJGnSvYjA?label=ArtboyLk%20views&style=social)(https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA)
 
 # <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 ![Profile views](https://gpvc.arturio.dev/Sithijadewmina)
