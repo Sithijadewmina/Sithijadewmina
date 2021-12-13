@@ -8,6 +8,7 @@
 
 #   **Github Stats**
 ![Sithija Github stats](https://github-readme-stats.vercel.app/api?username=Sithijadewmina&show_icons=true&theme=tokyonight)
+![Profile views](https://img.shields.io/github/watchers/Sithijadewmina/Sithijadewmina?label=Profile%20views&style=social)
 
 # Youtube Channel
  <p align="center"><a href="https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA"><img src="https://telegra.ph/file/dda94c64726542f7f4312.png" width="400"></a></p>
