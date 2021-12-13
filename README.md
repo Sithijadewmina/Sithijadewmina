@@ -8,5 +8,5 @@
 #   **Github Stats**
 ![Sithija Github stats](https://github-readme-stats.vercel.app/api?username=Sithijadewmina&show_icons=true&theme=tokyonight)
 
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
+# <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 ![Profile views](https://gpvc.arturio.dev/Sithijadewmina)
