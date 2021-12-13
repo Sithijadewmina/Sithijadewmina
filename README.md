@@ -10,3 +10,6 @@
 
 # <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 ![Profile views](https://gpvc.arturio.dev/Sithijadewmina)
+
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
