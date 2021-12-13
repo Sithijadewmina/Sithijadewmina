@@ -1,6 +1,7 @@
 ## Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 
-## I am Sithija
+<h1 align="center"><a href="https://github.com/Sithijadewmina"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=2494F7&size=40&center=true&lines=Hello+I'm+Sithija+Dewmina"></a></h1>
+
 <img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
